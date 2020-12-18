@@ -1,0 +1,19 @@
+{
+  "name": "twitter-socket",
+  "version": "1.0.0",
+  "description": "Real time tweet fetcher]",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nathanmayall/twitter-socket.git"
+  },
+  "author": "Nathan Mayall",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nathanmayall/twitter-socket/issues"
+  },
+  "homepage": "https://github.com/nathanmayall/twitter-socket#readme"
+}
